@@ -3,7 +3,7 @@
 ## App Setup
 
 * Clone this repository by executing `git clone https://github.com/FionaMacRaeFairlie/expressjs-validator-serverside-template.git` in your console.
-* Enter the project directory with `cd expressjs-validator-starter`.
+* Move into the project directory using cd
 * Run `npm install` to install all the project's dependencies.
 
 ## Running the app.
@@ -13,4 +13,4 @@
 
 ## Testing the application
 
-* Visit `http://localhost:3000` and enter bogus data in the signup form. Then press enter to see how the app reacts.
+* Visit `http://localhost:3000` and enter some data into the form. Then press the submit button to see how the app reacts.
